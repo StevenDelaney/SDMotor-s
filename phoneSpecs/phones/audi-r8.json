@@ -1,0 +1,61 @@
+{
+    "additionalFeatures": "€110,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2014"
+    }, 
+    "description": "The Audi R8 is a supercar from a dying breed. As makers add turbochargers to their cars to meet ever-stricter emissions targets, the naturally aspirated engine is falling out of favour, and in some ways the R8 is a fantastic last hurrah. But while the 5.2-litre V10 is a focal point of the car, there's much more to the R8 than simply a big engine.It's as useable as an Audi TT on a daily basis, if you can live with the running costs, and its ease of use would put some superminis to shame. Quattro four-wheel drive means it has plenty of traction and grip, but unlike many fast Audis, it's enjoyable to drive on track. It's nimble and agile, while the V10 packs a punch that's accompanied by a thrilling V10 soundtrack, especially if you go for the R8 V10 Plus.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "12,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€720", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "audi-r8", 
+    "images": [
+        "img/phones/r8.jpg",  
+        "img/phones/r8-2.jpg", 
+        "img/phones/r8-3.jpg", 
+        "img/phones/r8-4.jpg"
+    ], 
+    "name": "Audi R8", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "2.0L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Roadster"
+    }
+}

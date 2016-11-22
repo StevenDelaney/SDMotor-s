@@ -1,0 +1,149 @@
+/* app css stylesheet */
+
+
+body {
+  
+  padding: 20px;
+  padding-left: 10px;
+  background-color:red;
+ 
+}
+
+
+
+.thumb {
+  float: left;
+  margin: 0.5em 1em 1.5em 0;
+  padding-bottom: 2em;
+  
+  height: 700px;
+  width: 700px;
+  
+  
+  
+}
+
+.col-md-10
+{
+	padding-top: 2em;
+}
+
+
+
+.phones li {
+float: centre;
+  clear: both;
+  height: 600px;
+  padding-top: 40px;
+  border: 10px solid red;
+  font-size: 2em;
+  padding-left: 40px;
+
+  
+  
+  
+}
+
+/** Detail View **/
+img.phone {
+  float: left;
+  border: 10px solid red;
+  margin-right: 3em;
+  margin-left: 4em;
+  margin-bottom: 1em;
+  margin-top:12em;
+  background-color: white;
+  padding: em;
+  height: 400px;
+  width: 600px;
+}
+
+ul.phone-thumbs {
+  margin: 0;
+  list-style: none;
+  background-color:black;
+}
+
+ul.phone-thumbs li {
+  border: 10px solid red;
+  display: inline-block;
+  margin: 1em;
+  background-color: white;
+  
+}
+
+ul.phone-thumbs img {
+  height: 200px;
+  width: 350px;
+  padding: em;
+  
+}
+
+ul.specs {
+  clear: both;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: black;
+  
+  
+}
+
+ul.specs > li{
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  color: red;
+  padding-left:3em;
+  
+}
+
+ul.specs > li > span{
+  font-weight: bold;
+  font-size: 3em;
+  color: red;
+  text-decoration: underline;
+}
+
+ul.specs dt {
+  font-weight: bold;
+  color: red;
+  font-size: 2em;
+}
+
+p  {
+	
+	float: center;
+	background-color: black;	
+	font-size: 3em;
+	color: red;
+}
+
+p1  {
+	
+	float: center;
+		padding: 1em;
+	font-size: 1.5em;
+	
+}
+
+h2  {
+	
+	float: center;
+		padding: 1em;
+	font-size:3em;
+	background-color: white;
+}
+h1 {
+  border-bottom: 20px solid red;
+  text-decoration: underline;
+  float: center;
+ 
+}
+
+h3 {
+  border-bottom: 5px solid red;
+  text-decoration: underline;
+  float: center;
+  
+}

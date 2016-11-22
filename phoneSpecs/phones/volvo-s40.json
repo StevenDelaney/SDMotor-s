@@ -1,0 +1,63 @@
+{
+    "additionalFeatures": "€12,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+        
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol/Diesel"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2007"
+    }, 
+    "description": "The Volvo S40 is difficult to categorise. It was originally designed to battle with the Audi A3 and BMW 1 Series, but its saloon bodystyle pushes ittowards the compact executive sector - competing with the BMW 3 Series, Audi A4 and arguably treading on the toes of the bigger and newer Volvo S60. It uses a version of the last generation Ford Focus platform, which is a legacy of the manufacturer’s previous ownership by Ford. But with its smart cabin, unique styling and extensive safety equipment tally it feels every inch a real Volvo. The S40 isn’t quite as sharp to drive as the Ford, but it still handles well and the ride is firm but controlled.Perhaps the best thing about the S40, though, is its ‘floating’ dashboard. This takes its name from the slim centre console, which is attached at the top and bottom, but is otherwise free standing, a design that has barely aged to this day.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "180,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€720", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "volvo-s40", 
+    "images": [
+        "img/phones/s40.jpg", 
+        "img/phones/s40-1.jpg", 
+        "img/phones/s40-2.jpg", 
+        "img/phones/s40-3.jpg", 
+        "img/phones/s40-4.jpg"
+    ], 
+    "name": "Volvo s40", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "2.0L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Saloon"
+    }
+}

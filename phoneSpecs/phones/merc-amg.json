@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€55,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+        
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2016"
+    }, 
+    "description": "AMG’s own sports car, in no way just a go-faster version of a regular Benz. The body, suspension and cabin are all bespoke. Unlike the more expensive and lower-selling SLS, the GT is aimed right at the heart of the serious sports car market. Which means it has no business adopting the SLS’s oddball and spiky character. Everything has to be right: look at its rivals, particularly the ever-present Porsche 911. The GT’s aluminium body carries a twin turbo V8 upfront, and a seven-speed twin-clutch transmission out back, for excellent weight balance. It’ll also come in two versions from launch: the standard 469bhp C 63 tested here, and a more expensive S-badged model with 503bhp. Both are more powerful than the current M3 or Audi RS4 although, starting at £59,800, they’re a little pricier, too. In eight pages we’ll know if the new car lives up to its premium – and its reputation. Let’s begin.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "12,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€720", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "merc-amg", 
+    "images": [
+        "img/phones/amg.jpg", 
+        "img/phones/amg-1.jpg", 
+        "img/phones/amg-2.jpg", 
+        "img/phones/amg-3.jpg"
+    ], 
+    "name": "Mercedes AMG", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "2.4L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "HotHatch"
+    }
+}

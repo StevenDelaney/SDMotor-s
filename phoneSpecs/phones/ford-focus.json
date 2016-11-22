@@ -1,0 +1,63 @@
+{
+    "additionalFeatures": "€45,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+         
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2010"
+    }, 
+    "description": "But that 2.0-litre engine develops 247bhp – significantly more than the old ST – and the new car has vastly improved running costs, which is so important when targeting sales all around the world. The current ST is also available in estate guise and with a low emission diesel engine designed to compete alongside the Volkswagen Golf GTD. Well may be not as will certainly appeal to a broader brush audience than before. In 2015, the Focus got a facelift and that translated to the ST too, with the big Aston-esque honeycomb mesh grille and more aggressive style dominating, which makes it look like a softer version of the hardcore Focus RS.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "25,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€720", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "ford-focus", 
+    "images": [
+        "img/phones/st.jpg", 
+        "img/phones/st-1.jpg", 
+        "img/phones/st-2.jpg", 
+        "img/phones/st-3.jpg", 
+        "img/phones/st-4.jpg"
+    ], 
+    "name": "Ford Focus", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "2.2L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Hatchback"
+    }
+}

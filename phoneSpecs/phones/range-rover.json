@@ -1,0 +1,63 @@
+{
+    "additionalFeatures": "€60,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+         
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol/Diesel"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2015"
+    }, 
+    "description": "Nothing is quite like a Range Rover. It has long been the luxury SUV benchmark, and it even rivals luxury limousines for upmarket style, grace and refinement. Its regal image, exquisite interior, powerful engines and unrivalled off-road ability make it the go-to vehicle for those who want a luxury car that can do it all.Like-for-like rivals are actually few and far between, and span everything from the Porsche Cayenne to the Mercedes S-Class. At the top of the range, the top-spec SVAutobiography version competes with the Bentley Bentayga. The Range Rover caters to every conceivable need by offering luxury and off-road prowess. The 340-hp supercharged V-6—with an eight-speed automatic and four-wheel drive—offers a decent compromise between power and efficiency. There is also a 254-hp turbodiesel V-6 with 440 lb-ft of torque. Standard and long wheelbase models are equally posh, especially in Autobiography trim, and feature lots of tech. The Rover may be expensive and imposing, but few utes can match this status symbol’s panache. ", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "22,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€1,200", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "range-rover", 
+    "images": [
+        "img/phones/range.jpg", 
+        "img/phones/range-1.jpg", 
+        "img/phones/range-2.jpg", 
+        "img/phones/range-3.jpg", 
+        "img/phones/range-4.jpg"
+    ], 
+    "name": "Range Rover", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "4.5L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "4X4"
+    }
+}

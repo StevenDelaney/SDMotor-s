@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€2.2 Million", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+         
+        "type": "Flappy-Paddle"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol/Electric"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2016"
+    }, 
+    "description": "It took Porsche years to develop a worthy successor to the vaunted Carrera GT supercar, but at last, the 918 is here—and it’s a plug-in hybrid! With a combined 887 hp and 944 lb-ft of torque from its mid-mounted V-8 and electric motors—one at each axle—the 918 delivers Bugatti-like acceleration, tenacious handling, and a 211-mph top end. And of course, it’s every bit as exotic-looking as any near-million-dollar supercar should be, with a low-slung, targa body, and ultra-futuristic cabin. It’s almost impossible to talk about the Porsche 918 Spyder without comparing and contrasting it with the McLaren P1 and LaFerrari, the trio making up the so-called holy trinity of hypercars. The Porsche is sometimes seen as the most understated of the three and it is certainly the cheapest (if you can apply that word to something with a list price of over £600,000), but in many ways it is actually the most impressive.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "0", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€680", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "porsche-918", 
+    "images": [
+        "img/phones/918.jpg",  
+        "img/phones/918-2.jpg", 
+        "img/phones/918-3.jpg", 
+        "img/phones/918-4.jpg"
+    ], 
+    "name": "Porsche 918", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "4.5L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "HyperCar"
+    }
+}

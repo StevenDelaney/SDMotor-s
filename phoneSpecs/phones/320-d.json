@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€42,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Diesel"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2013"
+    }, 
+    "description": "That sharply-cut nose is already a familiar sight on the UK’s roads, despite the latest BMW 3 Series only actually being launched a few years ago. The F30 range is broad, with umpteen engines, trims and even a four-wheel drive version, dubbed 3 Series xDrive (which now outsells the Audi A4 quattro).BMW rolled out a new facelifted 3 last year to help it tackle the surprisingly fierce challenge from the Jaguar XE and Audi A4. Visual changes are minor but there’s an almost entirely new engine range and a lift for the interior. Tastes are so varied and requirements so broad that there’s no such thing as the ‘perfect’ car, but the BMW 3 Series arguably comes close. Over the last four decades or so, the 3 Series has established itself as a practical, desirable, economical and – perhaps most significantly – great-to-drive executive saloon.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "55,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€820", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "320-d", 
+    "images": [
+        "img/phones/bmw.jpg", 
+        "img/phones/bmw-1.jpg", 
+        "img/phones/bmw-2.jpg", 
+        "img/phones/bmw-3.jpg"
+        
+    ], 
+    "name": "BMW 320D", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "2.2L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Saloon"
+    }
+}

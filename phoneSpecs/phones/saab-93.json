@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€15,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+         
+        "type": "Manual/ Automatic"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol/Diesel"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2007"
+    }, 
+    "description": "The Saab 9-3 saloon is a car styled after an aeroplane. The Saab brand has always appealed to buyers looking for something a little different to the mainstream and the 9-3 is a prime example. It's less obvious than a BMW for instance and has an air of understated style about its looks while still retaining a premium reputation. Sadly the model is starting to feel dated, especially inside and although Saab promotes it as being sporty to drive, it's not as enjoyable as the marketing would have you believe. It's safe though and was one of the first cars in the class to have a five-star Euro NCAP crash test rating. A facelift in mid 2007 brought a fresh look and a redesigned interior - it's still good value but lacks the sophistication of newer alternatives.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "20,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€720", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "saab-93", 
+    "images": [
+        "img/phones/saab.jpg", 
+        "img/phones/saab-1.jpg", 
+        "img/phones/saab-3.jpg", 
+        "img/phones/saab-4.jpg"
+    ], 
+    "name": "Saab 93", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "1.9L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Saloon"
+    }
+}

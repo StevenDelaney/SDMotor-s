@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€52,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+         
+        "type": "Automatic"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol/Deisel"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2016"
+    }, 
+    "description": "The VW CC has been quite a success, with more than 300,000 sold worldwide since the original VW Passat CC was launched in 2008. Standing for Comfort Coupé, it offers four-door practicality with a bit more glamour than the more staid saloon on which it’s based.There’s good news in the engine department, too. The base 1.4-litre petrol is quick enough and fairly frugal but most will be more interested in the punchy yet economical 2.0-litre diesels. Emissions may not be quite as good as some rivals, but the most popular 148bhp diesel manages a respectable 118g/km of CO2, enough for a benefit-in-kind (BIK) rate of 23%.The CC is expensive when compared to more conventional saloon rivals, but counters this with a generous level of standard equipment. Even the lowliest CC receives sat-nav, a DAB radio, two-zone climate control and automatic bi-xenon headlights.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "50,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€840", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "passat-cc", 
+    "images": [
+        "img/phones/cc.jpg", 
+        "img/phones/cc-1.jpg", 
+        "img/phones/cc-2.jpg", 
+        "img/phones/cc-3.jpg"
+    ], 
+    "name": "Passat CC", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "2.2L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Saloon"
+    }
+}

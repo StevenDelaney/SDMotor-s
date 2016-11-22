@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€120,000", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2016"
+    }, 
+    "description": "The Challenger is one big bruiser, with heft better suited to cruising or drag-racing at the strip than turning laps on a race track. Powertrains include the standard 305-hp 3.6-liter V-6 and an eight-speed auto; a 5.7-liter Hemi V-8 makes 375 hp when paired with the standard six-speed manual and 372 hp with the optional eight-speed automatic. The Scat Pack option features a 485-hp 6.4-liter Hemi V-8; a six-speed manual is standard and a eight-speed auto is optional. The Challenger is a major salvo in the Horsepower Wars, offering muscle-car metal and seriously awesome engines. The 6.4-liter Hemi V-8 makes 485 hp and 475 lb-ft; choose either a six-speed manual or eight-speed automatic. The aptly named Hellcat has a supercharged 6.2-liter V-8 good for 707 hp and 650 lb-ft, with either a six-speed manual or eight-speed automatic. The automatic is faster, hitting 60 mph in 3.6 seconds, while the manual is more fun and still quick doing 0–60 in 3.9 seconds.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "45,000", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "€1200", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "dodge-chal", 
+    "images": [
+        "img/phones/dodge.jpg", 
+        "img/phones/dodge-1.jpg", 
+        "img/phones/dodge-2.jpg", 
+        "img/phones/dodge-3.jpg"
+        
+    ], 
+    "name": "Dodge Challenger", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "5.5L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "Muscle"
+    }
+}

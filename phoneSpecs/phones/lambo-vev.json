@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "€4.5 Million", 
+    "android": {
+        "os": "Android 2.2", 
+        "ui": "Dell Stage"
+    }, 
+    "availability": [
+        ""
+    ], 
+    "battery": {
+        
+        "type": "Manual"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "Petrol"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "2016"
+    }, 
+    "description": "The typical roadster has a top that the driver can raise and lower at his demand, but the Veneno is no typical car. Instead, Lamborghini opted to hack the top off altogether.In terms of overall design, the Veneno Roadster looks nearly identical to its coupe brother, so it retains that crazy exterior look, with exception to it lack of a roof.Unlike the coupe versio, which was limited to just three units, Lamborghini will limit the new Veneno Roadster to nine units. Each will carry a price tag of $4.5 million. Three gentlemen who bought a Lamborghini Veneno for more than $4 million before they ever set eyes on the real thing. That's love... and a lot of faith in Lamborghini's designers.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "0", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "Unknown", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "lambo-vev", 
+    "images": [
+        "img/phones/lambo.jpg", 
+        "img/phones/lambo-1.jpg",      
+        "img/phones/lambo-3.jpg", 
+        "img/phones/lambo-4.jpg"
+    ], 
+    "name": "Lamborghini Veneno", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "199.9 mm (w)", 
+            "119.8 mm (h)", 
+            "12.4 mm (d)"
+        ], 
+        "weight": "6.5L"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "HyperCar"
+    }
+}
